@@ -191,6 +191,9 @@ text-align: center;
 
 #social{
     background-image: url(../assets/social-bg.png);
+    background-size: cover;
+    background-position: center;
+
     height: 363px;
     display: flex;
     justify-content: center;
